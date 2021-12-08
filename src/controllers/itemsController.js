@@ -25,7 +25,7 @@ itemsCtrl.createItem = async (req, res) => {
         created_at: date,
         filename: req.file.filename,
         //imgurl: process.env.HOST + ':' + process.env.PORT + '/img/uploads/' + req.file.filename,
-        imgurl: process.env.HOST + '/img/uploads/' + req.file.filename,
+        imgurl: process.env.HOST + 'img/uploads/' + req.file.filename,
         
         
     });
