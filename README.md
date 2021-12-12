@@ -1,3 +1,8 @@
+
+
+recursos: https://drive.google.com/drive/folders/14aVWcyaJ2iUUH0FIcUvtKRBe0ub57dkj?usp=sharing
+
+
 la aplicacíon está desplegada en heroku
 
 front: https://wikibread.herokuapp.com/
